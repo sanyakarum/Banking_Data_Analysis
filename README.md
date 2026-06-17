@@ -1,5 +1,5 @@
-# Banking_Data_Analysis
-# 🏦 Banking Customer Analytics Project
+
+# 🏦 Banking Customer Data Analytics Project
 
 ## Overview
 
