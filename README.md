@@ -9,7 +9,7 @@ This project focuses on analyzing banking customer data using Python, MySQL, and
 
 ## Dataset
 
-**Dataset:** Banking Customer Data
+**Dataset:** Banking_Data
 
 The dataset contains customer information such as:
 
@@ -30,7 +30,7 @@ The dataset contains customer information such as:
 * **Matplotlib, Seaborn** – Data visualization
 * **MySQL** – Business analysis using SQL queries
 * **Power BI** – Interactive dashboard creation
-* **Jupyter Notebook / VS Code** – Development environment
+* **Jupyter Notebook** – Development environment
 
 ---
 
@@ -75,14 +75,12 @@ Created an interactive dashboard to visualize:
 * Estimated Income
 * Customer Segmentation
 * Banking Relationships
-* Key Performance Indicators (KPIs)
 
 ---
 
 ## Dashboard Features
 
 * Interactive filters and slicers
-* KPI summary cards
 * Customer demographic analysis
 * Deposit and loan trends
 * Income distribution insights
