@@ -43,17 +43,17 @@ The dataset contains customer information such as:
 
 ### 2. Data Cleaning
 
-* Handled missing values.
-* Removed duplicates.
-* Corrected data inconsistencies.
-* Prepared data for analysis and reporting.
+* Checked for missing values
+* Examined the data types
+* Prepared data for analysis and reporting
 
 ### 3. Exploratory Data Analysis (EDA)
 
 * Analyzed customer income distribution.
-* Examined deposits, loans, and credit card balances.
-* Identified customer segments and trends.
-* Generated visualizations to uncover insights.
+* Analyzed Univariate and Bivariate Analysis
+* Examined deposits, loans, and credit card balances
+* Identified customer segments and trends
+* Generated visualizations to uncover insights
 
 ### 4. SQL Analysis
 
